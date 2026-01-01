@@ -17,3 +17,4 @@ After you've done that you will unplug and plug the esp32 again or reset via the
 It works on all devices, even on original consoles. I tried it on my PS2 and it worked. So the possibilities are endless. 
 
 I made this cause i needed 8 players but I only have 4 buzzers, so I built this and for 8 playes it's recomended to use 2 esp's since i only have support for 4 players per esp for compatibility.
+### Let me know if you guys want new features!
