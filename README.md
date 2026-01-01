@@ -1,5 +1,5 @@
 # ESP32-S3_Buzz-_buzzer_emulator
-A usb emulator that emulates the PS2 version of Buzzers
+A usb emulator that emulates the PS2 version of Buzzers and uses phones as buzzers.
 
 ## How to use
 After you built or flashed the project (search for tutorials online since im not going to go into detail) you will connect on your device of choice to the AP created by the ESP32 which is **"Buzz_Emulator_AP"** and then go to **192.168.4.1** you should see the buzzer ui. 
